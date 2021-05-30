@@ -6,6 +6,11 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+pandas = "*"
+numpy = "*"
+seaborn = "*"
+jupyter = "*"
+pyspark = "*"
 
 [requires]
 python_version = "3.9"
